@@ -2,7 +2,7 @@
 # tasks file for sample_role
 - name: sample role start
   debug:
-    msg: "this is sample role"
+    msg: "this is sample role!"
 
 - name: print value
   debug:
